@@ -5,5 +5,5 @@ A team project for learning and practising Git and GitHub collaboration
 This is a team project for learning and practising Git and GitHub collaboration.
 
 # VS Code
-# Git and GitHub
-# Python
+Git and GitHub
+Python
