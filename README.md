@@ -5,6 +5,13 @@ A team project for learning and practising Git and GitHub collaboration
 This is a team project for learning and practising Git and GitHub collaboration.
 
 # VS Code
+## VS Code environment Setup
+
+1. Download and install Visual Studio Code.
+2. Open the project folder in VS Code.
+3. Install the recommended extensions for the project.
+4. Use the integrated terminal to run Git commands.
+
 Git and GitHub
 Python
 
@@ -49,6 +56,12 @@ Markdown is used because:
 | `[link](url)` | A clickable link |
 
 
+## VS Code Setup
+
+1. Download and install Visual Studio Code.
+2. Open the project folder in VS Code.
+3. Install the recommended extensions.
+4. Use the integrated terminal to run Git commands.
 
 
 
