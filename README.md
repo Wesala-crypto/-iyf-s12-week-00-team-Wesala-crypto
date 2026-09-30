@@ -37,6 +37,25 @@ Common commads include:
 4. `git log` view history
 Git runs on your computer meaning you can commit and view history without internet connection.
 
+## Markdown
+
+Markdown is a simple way to format text using plain characters instead of menus or buttons. You type things like `**bold**` or `# Heading`, and it turns into styled text when displayed. Files that use this format end in `.md` — like this README.
+
+Markdown is used because:
+
+- **It's plain text**, so no special software is needed to write it.
+- **It renders nicely** — GitHub automatically converts `.md` files into clean, formatted pages.
+- **It's version-control friendly**, since Git can easily track line-by-line changes in plain text.
+- **It's the standard for documentation** across almost every GitHub project.
+
+| `# Title` | A big heading |
+| `**bold**` | **bold** |
+| `*italic*` | *italic* |
+| `- item` | A bullet point |
+| `` `code` `` | `code` |
+| `[link](url)` | A clickable link |
+
+
 ## VS Code Setup
 
 1. Download and install Visual Studio Code.
