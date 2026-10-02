@@ -56,12 +56,7 @@ Markdown is used because:
 | `[link](url)` | A clickable link |
 
 
-## VS Code Setup
 
-1. Download and install Visual Studio Code.
-2. Open the project folder in VS Code.
-3. Install the recommended extensions.
-4. Use the integrated terminal to run Git commands.
 
 
 
